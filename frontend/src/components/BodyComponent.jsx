@@ -1,10 +1,11 @@
 import React from 'react'
-
+import AboutMe from './AboutMe'
+import Projects from './Projects'
 const BodyComponent = () => {
   return (
     <div className='pt-24 bg bg-pink-200'>
-       <div>Hello</div>
-       <div>Hi</div>
+       <AboutMe/>
+       <Projects></Projects>
     </div>
   )
 }
