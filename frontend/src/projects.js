@@ -21,7 +21,7 @@ export const projects = [
         videoUrl:"",
         description:"Developed a real-time shopping app with seamless cross-category browsing, cart functionality, and Strapi-enabled backend for optimal data retrieval.Implemented Strapi for backend services, reducing data retrieval time & enhancing responsiveness. Improved user satisfaction & engagement metrics through desktop & mobile device responsiveness.",
         techstack:["React","Strapi","vanilla javascript","css"],
-        github:"https://github.com/lakshay0501/Paytm_clone",
+        github:"https://github.com/lakshay0501/shopping_app",
         livelink:""
     }
 ]

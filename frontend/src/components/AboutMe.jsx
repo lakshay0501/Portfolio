@@ -21,7 +21,7 @@ const AboutMe = () => {
              Everyday I try to become better version of myself
         </div>
 
-        <button className='bg bg-slate-300 rounded-lg w-24 flex items-center' onClick={handleClick}>
+        <button className='bg bg-slate-300 rounded-lg w-24 flex items-center mb-16 border border-slate-500' onClick={handleClick}>
             <FontAwesomeIcon icon={faGithub} className='pl-2 pr-2'></FontAwesomeIcon>
             <div>Follow</div>
         </button>
